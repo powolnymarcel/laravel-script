@@ -1,6 +1,5 @@
  
 
-    enter code here
      "laravel-clear": [
             "php artisan clear-compiled",
             "clear",
