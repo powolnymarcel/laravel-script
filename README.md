@@ -1,6 +1,7 @@
-# laravel-script
+ 
 
- "laravel-clear": [
+    enter code here
+     "laravel-clear": [
             "php artisan clear-compiled",
             "clear",
             "php artisan cache:clear",
