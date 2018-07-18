@@ -1,5 +1,5 @@
- 
- "clear": [
+    "clear": [
+     
         "php artisan clear-compiled",
         "clear",
         "php artisan cache:clear",
