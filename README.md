@@ -1,22 +1,15 @@
     "clear": [
-     
         "php artisan down",
-        "php artisan clear-compiled",
-        "clear",
         "php artisan cache:clear",
-        "clear",
+        "php artisan clear-compiled",
+        "php artisan auth:clear-resets",
         "php artisan route:clear",
-        "clear",
         "php artisan route:cache",
-        "clear",
-        "php artisan view:clear",
-        "clear",
         "php artisan config:clear",
-        "clear",
         "php artisan config:cache",
-        "clear",
+        "php artisan view:clear",
         "composer dump-autoload -o",
-        "clear",
         "rm bootstrap/cache/* -f",
-        "php artisan up"
+        "php artisan up",
+        "clear"
         ]
