@@ -1,5 +1,6 @@
     "clear": [
      
+        "php artisan down",
         "php artisan clear-compiled",
         "clear",
         "php artisan cache:clear",
@@ -16,5 +17,6 @@
         "clear",
         "composer dump-autoload -o",
         "clear",
-        "rm bootstrap/cache/* -f"
+        "rm bootstrap/cache/* -f",
+        "php artisan up"
         ]
